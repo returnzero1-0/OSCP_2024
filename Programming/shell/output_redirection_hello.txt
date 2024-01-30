@@ -1,0 +1,6 @@
+total 12K
+-rw-r--r-- 1 dhaval dhaval  250 Jan 30 23:17 log.30-01-2024
+-rwx------ 1 dhaval dhaval 1.8K Jan 30 23:42 ch_11_using_multiple_commands.sh
+-rw-r--r-- 1 dhaval dhaval    0 Jan 30 23:42 output_redirection_hello.txt
+-rw-r--r-- 1 dhaval dhaval  250 Jan 30 23:42 opt.log_30-01-2024
+/home/dhaval/Programming/shell
