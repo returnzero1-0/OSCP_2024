@@ -1,3 +1,4 @@
+#!/bin/bash
 <<cmt
 
 if else condition
@@ -22,7 +23,7 @@ fi
 
 cmt
 
-#!/bin/bash
+
 
 read -p "Enter value 1:" var1
 read -p "Enter value 1:" var2

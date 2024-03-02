@@ -1,3 +1,4 @@
+#!/bin/bash
 <<cmt
 
 elseif ladder:
@@ -36,7 +37,7 @@ fi
 
 cmt
 
-#!/bin/bash
+
 
 read -p "Enter value 1: " var1
 read -p "Enter value 2: " var2

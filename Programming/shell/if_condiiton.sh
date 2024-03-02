@@ -1,3 +1,4 @@
+#!/bin/bash
 <<cmt
 This section is dedicated to if condition only
 
@@ -17,7 +18,7 @@ fi
 
 cmt
 
-#!/bin/bash
+
 
 var1=10;
 var2=5;

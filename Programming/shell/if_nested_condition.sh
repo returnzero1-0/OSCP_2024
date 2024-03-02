@@ -1,3 +1,4 @@
+#!/bin/bash
 <<cmt
 
 Nested if confition
@@ -31,7 +32,7 @@ that is how the nested if works.
 
 cmt
 
-#!/bin/bash
+
 
 var1=10
 var2=5
